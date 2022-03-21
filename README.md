@@ -1,6 +1,6 @@
 👋 Hi, I’m @RmnMatusevich
-🛠 Languages: JS, TypeScript, C#, Unity
-📱 Front-end: React, Redux, redux-saga, redux-thunk, React Native, Next, Gatsby, Angular, JQuery, Bootstrap, SASS, LESS.
+- 🛠 Languages: JS, TypeScript, C#, Unity
+- 📱 Front-end: React, Redux, redux-saga, redux-thunk, React Native, Next, Gatsby, Angular, JQuery, Bootstrap, SASS, LESS.
 📟 Back-end: Node, Express, Nest, Koa.
 🏛 Architectures: REST, GraphQL, Socket.io.
 ✉️ API’s: Vimeo, Stripe, Google Sheets, Google Calendar, Google Map.
