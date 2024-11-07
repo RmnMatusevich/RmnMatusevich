@@ -1,9 +1,9 @@
 👋 Hi, I'm Roman Matusevich (@RmnMatusevich)
 
-- 🛠 Languages & Frameworks
-  Languages: JavaScript, TypeScript, C#, Unity.
-  Front-end: React, Redux, React Native, Next.js, Gatsby, Angular, custom UI libraries.
-  Back-end: Node.js, NestJS, Express, Koa.
+🛠 Languages & Frameworks
+  <br>Languages: JavaScript, TypeScript, C#, Unity.
+  <br>Front-end: React, Redux, React Native, Next.js, Gatsby, Angular, custom UI libraries.
+  <br>Back-end: Node.js, NestJS, Express, Koa.
 - 🏛 Architectures
 - System Architectures: REST, GraphQL, WebSockets, Event-Driven, gRPC, CQRS, Serverless, Microservices, Hexagonal Architecture.
 - ✉️ APIs & Integrations
