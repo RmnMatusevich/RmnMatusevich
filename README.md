@@ -1,4 +1,5 @@
 👋 Hi, I'm Roman Matusevich (@RmnMatusevich)
+<br>Resume: https://ramanmatusevich.vercel.app
 
 <br>🛠 Languages & Frameworks
 <br>&emsp; Languages: JavaScript, TypeScript, C#, Unity.
